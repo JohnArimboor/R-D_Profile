@@ -163,4 +163,5 @@ class Wafertester:
 if __name__ == "__main__":
     root = tk.Tk() # Fire up the hidden Tkinter engine and create the main window object.
     app = Wafertester(root) # Hand that blank window over to our Wafertester blueprint so it can build the dashboard.
+
     root.mainloop()
