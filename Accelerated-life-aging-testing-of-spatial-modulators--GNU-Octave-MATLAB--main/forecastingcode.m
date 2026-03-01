@@ -88,3 +88,4 @@ fprintf('Failure Contrast Threshold of the device (50%% of initial): %.1f\n', th
 fprintf('Predicted Time-to-Failure (TTF): %.0f hours\n', ttf);% Print 0 decimal places
 
 
+
