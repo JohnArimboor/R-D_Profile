@@ -1,6 +1,6 @@
 # Wafer-coordinate-transformation-script-using-Pandas--Python
 
-Project Overview:-This project handles large sets of data for automated semiconductor or quantum wafer testing processes. Attempts to convert file containing the theoretical layout of thousands of chips and mathematically by transforming it into real-world physical motor coordinates for a testing stage.
+Project Overview:-Compnaies usually handle large sets of data for automated semiconductor or quantum wafer testing processes.This code attempts to convert file containing the theoretical layout, the one sent from the design engineers consisting information of thousands of chips and transforming it into real-world physical motor coordinates for a testing stage.
 
 Solution aimed at:-When a physical wafer is loaded onto a test machine, its physical position never perfectly matches the digital design file. If a wafer has thousands of chips (like a 40,000-qubit architecture), an engineer cannot manually align the machine to each one. This tool solves that by allowing the user to align the machine to just one reference chip. The script then instantly calculates the exact motor coordinates needed to find every other chip on the wafer.
 
