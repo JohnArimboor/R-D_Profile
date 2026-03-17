@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 12 16:15:46 2026
-
 @author: John Arimboor
 """
 
