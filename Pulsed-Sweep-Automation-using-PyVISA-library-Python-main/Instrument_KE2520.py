@@ -1,13 +1,6 @@
 
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 28 12:51:25 2026
-
-@author: John Arimboor
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 12 16:15:00 2026
 
 @author: John Arimboor
 """
